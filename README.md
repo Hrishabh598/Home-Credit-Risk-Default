@@ -25,12 +25,16 @@ This project aims to predict credit default risk for Home Credit clients using a
 ## Usage
 
 1. Clone the repository:
-
+   for ssh link
     ```bash
-    git clone https://github.com/your-username/home-credit-default-risk-model.git
+    git clone git@github.com:Hrishabh598/Home-Credit-Risk-Default.git
     ```
+   for https link
+   ```bash
+   git clone https://github.com/Hrishabh598/Home-Credit-Risk-Default.git
+   ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
     ```bash
     cd home-credit-default-risk-model
